@@ -1,0 +1,1 @@
+根据电脑屏幕的提示，把网址的0改成2^38 ,即http://www.pythonchallenge.com/pc/def/274877906944.html 进入下一级
