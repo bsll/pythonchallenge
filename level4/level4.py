@@ -5,7 +5,6 @@
 #同时根据网页源码显示，跳转400次就够了，所以用循环反复读取分析链接即可。
 
 import urllib2
-import urllib
 
 value = 12345
 i = 0
